@@ -1,0 +1,26 @@
+1.There are how many classes of IP address
+A.1
+B.2
+C.3
+D.4
+Correct Answer: C
+
+
+2.RT:12:AB:00:12:23:EF is a valid MAC address
+A.TRUE
+B.FALSE
+Correct Answer: B
+
+
+3.192.168.100.1 and 192.168.100.66 will ping each other without a router.
+A.TRUE
+B.FALSE
+Correct Answer: A
+
+
+4.The command to see the static mapping of IP and MAC is
+A.arp -a
+B.apr -a
+C.par -a
+D.mac -a
+Correct Answer: A
